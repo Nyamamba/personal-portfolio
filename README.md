@@ -1,33 +1,13 @@
 ## <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <a href="https://appollinaris.vercel.app/" target="_blank">appollinaris.tech</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+
 
 <br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/appollinaris/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/appollinaris/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/appollinaris/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/appollinaris/Portfolio/issues">Request Feature</a>
-</h3>
-
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give proper credit by linking back to [Appollinaris Nyamamba](https://github.com/appollinaris/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give proper credit by linking back to [Appollinaris Nyamamba](https://github.com/Nyamamba/personal-portfolio). Thanks!
 
 ## Built With
 
@@ -81,7 +61,5 @@ This portfolio was inspired by [Soumyajit4419](https://github.com/soumyajit4419/
 ### Show your support
 
 Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/appollinaris" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
 # personal-portfolio
