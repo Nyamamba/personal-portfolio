@@ -11,7 +11,7 @@ You can fork this repo to modify and make changes of your own. Please give prope
 
 ## Built With
 
-My personal portfolio <a href="https://appollinaris.vercel.app/" target="_blank">appollinaris.tech</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://personal-portfolio-navy-rho-75.vercel.app/" target="_blank">appollinaris.tech</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies:
 
@@ -52,7 +52,7 @@ You will find all the components used, and you can edit your information accordi
 
 ## Live Demo
 
-Check out the live demo here: [Live Demo](https://appollinaris.vercel.app/)
+Check out the live demo here: [Live Demo](https://personal-portfolio-navy-rho-75.vercel.app/)
 
 ## Credit
 
